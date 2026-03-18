@@ -7,9 +7,7 @@ Lead → Client → Task/Follow-up, enabling teams to efficiently track progress
 
 2. Figma Design Link:
 View Full UI Design:
-<button onclick="window.open('https://median-aqua-24827480.figma.site/')">
-  🚀 View Live Dashboard
-</button>
+[Figma Design Prototype]('https://median-aqua-24827480.figma.site/')
 This Figma file contains the complete CRM dashboard UI, including all screens such as the lead pipeline, client management, task tracking, and dashboard overview.
 
 3. Key Objectives:
