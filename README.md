@@ -11,7 +11,8 @@ Lead → Client → Task/Follow-up, enabling teams to efficiently track progress
 🌐 Live Design (Figma Site)
 
 🔗 View Full Project:
-[View Full Project](https://median-aqua-24827480.figma.site/)
+🔗 **View Full Project:**  
+[Click here to open CRM Dashboard](https://median-aqua-24827480.figma.site/)
 
 This interactive Figma site showcases the complete CRM dashboard UI, including all major screens and workflows.
 
